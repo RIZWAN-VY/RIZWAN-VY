@@ -1,5 +1,6 @@
 
-![github banner](https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/117a69d4-5069-4804-82a0-3a7115552355)
+
+https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/788c1d0b-0172-4617-8a03-5ff64b78d4c0
 
 <h2 align="center">A Passionate Data Professional, Aspiring to become a Data Engineer | Data Analyst</h2>
 
