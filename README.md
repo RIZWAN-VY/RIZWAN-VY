@@ -17,8 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/rizwan-vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwan-vy" height="50" width="60" /></a>
-<a href="https://www.hackerrank.com/rizwan_vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rizwan_vy" height="70" width="80" /></a>
+<a href="https://linkedin.com/in/rizwan-vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwan-vy" height="50" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/rizwan_vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rizwan_vy" height="50" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://rizwan-vy.github.io/Rizwan.github.io/" target="blank"><img align="center" src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/65b867ae-1fbb-415a-8260-9a03bf33d8ed" alt="rizwan_vy" height="50" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:rizwanyoosaf37@gmail.com" target="blank"><img align="center" src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/8ad975dc-570e-4f8c-8465-2ae4bd7bbb12" alt="rizwan_vy" height="50" width="60" /></a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
