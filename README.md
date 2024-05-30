@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm RIZWAN VY</h1>
+
+![github banner](https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/117a69d4-5069-4804-82a0-3a7115552355)
+
 <h2 align="center">A Passionate Data Professional, Aspiring to become a Data Engineer | Data Analyst</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan-vy&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-vy" /> </p>
