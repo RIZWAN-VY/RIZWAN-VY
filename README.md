@@ -1,7 +1,7 @@
 
 [![MasterHead](https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/34ae2a80-058e-4931-bafd-4615f58ccc61)](https://rizwan-vy.github.io/Rizwan.github.io/)
 
-<h1 align="center">A Passionate Data Professional, Aspiring to become a Data Engineer | Data Analyst</h1>
+<h2 align="center">A Passionate Data Professional, Aspiring to become a Data Engineer | Data Analyst</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan-vy&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-vy" /> </p>
 
