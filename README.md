@@ -23,11 +23,12 @@
 <a href="https://www.hackerrank.com/rizwan_vy" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/aae5cd21-1399-4a04-92d1-70622171dae6" alt="rizwan_vy" height="50" width="50" /></a>&nbsp;&nbsp;
          
 <h3 align="left">Languages and Tools:</h3>
+
 <a href="https://www.python.org/" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/599a2df6-0688-445e-b59f-30619d7667df" alt="rizwan_vy" height="50" width="150" /></a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/9e76e87a-da34-488c-ab2a-fe58733bfebe" alt="rizwan_vy" height="80" width="80" /></a>&nbsp;&nbsp;
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/beed037f-5aa1-4fdc-b7d3-5d66b314bfaf" alt="rizwan_vy" height="40" width="110" /></a>&nbsp;&nbsp;
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/11216a06-35ab-48a5-987f-fe56b5bb020d" alt="rizwan_vy" height="40" width="120" /></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/ddf47b71-932f-40a4-8504-25c8326983f9" alt="rizwan_vy" height="80" width="90" /></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/4c9f5582-3710-493a-9c85-346128dbaecb" alt="rizwan_vy" height="60" width="90" /></a>&nbsp;&nbsp;
 <a href="https://hadoop.apache.org/" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/54a85d12-abd3-4fb5-8ce2-765d72fc5fa9" alt="rizwan_vy" height="50" width="150" /></a>&nbsp;&nbsp;
 <a href="https://hive.apache.org/" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/1b0b0c88-a979-4a23-881b-e88b08089642" alt="rizwan_vy" height="50" width="150" /></a>&nbsp;&nbsp;
 <a href="https://airflow.apache.org/" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/8149aa52-2a05-4c37-9f43-977253890a73" alt="rizwan_vy" height="50" width="160" /></a>&nbsp;&nbsp;
