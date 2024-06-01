@@ -15,11 +15,11 @@
 
 ---
 <h3 align="left">Connect with me:</h3>
-<p allign="left"> <a href="https://rizwan-vy.github.io/Rizwan.github.io/" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/4a8b9872-febd-4073-9440-173a087f6f40" alt="rizwan_vy" height="50" width="50" /></a>
-<a href="mailto:rizwanyoosaf37@gmail.com" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/2afe0066-3689-40b7-b269-15e909975e29" alt="rizwan_vy" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/rizwan-vy" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/3c838b8d-5338-4477-8c4c-dd29e1c31f5b" alt="rizwan-vy" height="50" width="50" /></a>
-<a href="https://github.com/RIZWAN-VY" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/b6a6a635-e8f0-4db8-b5c4-26f69ad99c0d" alt="rizwan-vy" height="50" width="50" /></a>
-<a href="https://api.whatsapp.com/send?phone=8129831464" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/efa4796e-7e40-44db-b4fd-c0249e32399e" alt="rizwan_vy" height="50" width="50" /></a>
+<p allign="left"> <a href="https://rizwan-vy.github.io/Rizwan.github.io/" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/4a8b9872-febd-4073-9440-173a087f6f40" alt="rizwan_vy" height="50" width="50" /></a>&nbsp;
+<a href="mailto:rizwanyoosaf37@gmail.com" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/2afe0066-3689-40b7-b269-15e909975e29" alt="rizwan_vy" height="50" width="50" /></a>&nbsp;
+<a href="https://linkedin.com/in/rizwan-vy" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/3c838b8d-5338-4477-8c4c-dd29e1c31f5b" alt="rizwan-vy" height="50" width="50" /></a>&nbsp;
+<a href="https://github.com/RIZWAN-VY" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/b6a6a635-e8f0-4db8-b5c4-26f69ad99c0d" alt="rizwan-vy" height="50" width="50" /></a>&nbsp;
+<a href="https://api.whatsapp.com/send?phone=8129831464" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/efa4796e-7e40-44db-b4fd-c0249e32399e" alt="rizwan_vy" height="50" width="50" /></a>&nbsp;
 <a href="https://www.hackerrank.com/rizwan_vy" target="_blank"><img src="https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/aae5cd21-1399-4a04-92d1-70622171dae6" alt="rizwan_vy" height="50" width="50" /></a></p>
          
 <h3 align="left">Languages and Tools:</h3>
