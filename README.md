@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/34ae2a80-058e-4931-bafd-4615f58ccc61)](https://rizwan-vy.github.io/Rizwan.github.io/)
+![GitHub_Banner](https://github.com/RIZWAN-VY/RIZWAN-VY/assets/131337205/324d4188-a0c1-4c9a-aeb2-ffab1ef78cfb)
 
 <h2 align="center">A Passionate Data Professional, Aspiring to become a Data Engineer | Data Analyst</h2>
 
@@ -41,3 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwan-vy&show_icons=true&locale=en&layout=compact" alt="rizwan-vy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan-vy&" alt="rizwan-vy" /></p>
+
+## Explore my projects and feel free to connect if you're interested in working together or discussing ideas! I’m always open to new opportunities and connections!
+
+
